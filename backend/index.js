@@ -16,6 +16,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 
 
 app.use('/api', require('./routes/alertRoutes'))
+app.use("/api",require('./routes/TradingAdmin'))
 
 
 //app.use(errorHandler)

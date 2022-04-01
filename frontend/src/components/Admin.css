@@ -1,0 +1,28 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+.dataresult {
+  width: 550px;
+  max-height: 180px;
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  overflow: hidden;
+  overflow-y: auto;
+
+  background-color: white;
+  margin-bottom: 2px;
+}
+
+.dataresult .dataItem {
+  height: 30px;
+  display: flex;
+  align-items: center;
+border-bottom: 1px solid gray;
+  font-size: 15px;
+  padding-left: 4px;
+}
+.dataresult :hover {
+  background-color: #b2bec3;
+  cursor: pointer;
+}
+.downwardicons{
+  cursor: pointer;
+}

@@ -1,0 +1,59 @@
+.listhead {
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .listdetails {
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+  }
+  .listdetails table {
+    width: 100%;
+    box-shadow: 1px 1px 9px -6px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 1px 9px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 9px -6px rgba(0,0,0,0.75);
+  }
+  
+  .listdetails table thead {
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 1px 9px -6px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 1px 9px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 9px -6px rgba(0,0,0,0.75);
+    text-align: center;
+    background-color: #b2bec3;
+    
+    height: 40px;
+   
+  }
+  
+  .btn-setup{
+    margin-left: 10px;
+  }
+  .listdetails table td {
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+    
+  
+  
+  
+  }
+
+  .listdetails button {
+    padding-left: 20px;
+    padding-right: 20px;
+  
+  }
+  .listdetails input{
+     
+      outline: none !important;
+      border-radius: 6px;
+      border: 0.5px solid;
+  }
+  .listdetails .btntop{
+      margin-top: 10px;
+  }
+  
