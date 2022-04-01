@@ -1,1 +1,0 @@
-Create React App in this folder (frontend)
